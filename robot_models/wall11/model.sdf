@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<sdf version='1.6'>
+  <model name='wall0'>
+    <pose frame=''>1.25804 0.078696 0 0 -0 0</pose>
+    <link name='Wall_0'>
+      <collision name='Wall_0_Collision'>
+        <geometry>
+          <box>
+            <size>2.5 0.15 2.5</size>
+          </box>
+        </geometry>
+        <pose frame=''>0 0 1.25 0 -0 0</pose>
+      </collision>
+      <visual name='Wall_0_Visual'>
+        <pose frame=''>0 0 1.25 0 -0 0</pose>
+        <geometry>
+          <box>
+            <size>2.5 0.15 2.5</size>
+          </box>
+        </geometry>
+        <material>
+          <script>
+            <uri>model://wall0/materials/scripts/texture.material</uri>
+            <name>wall-texture</name>
+          </script>
+        </material>
+      </visual>
+      <pose frame=''>0 0 0 0 -0 0</pose>
+    </link>
+    <static>1</static>
+  </model>
+</sdf>
