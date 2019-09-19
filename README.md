@@ -10,7 +10,7 @@ ITU - BLG456E Project
 
 https://www.youtube.com/watch?v=0K-PRETNnPg
 
-## Wold
+## World
 
 <img width="596" alt="world" src="https://user-images.githubusercontent.com/32519328/65228598-6e009f80-dad3-11e9-8256-4f2f753669a2.png">
 
